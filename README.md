@@ -1,2 +1,1 @@
-# repositorio-del-curso
-es un repositorio de prueba del precurso de henry
+este proyecto es una prueba de como crear un repositorio y como clonarlo desde el githup al escritorio de mi computadora
